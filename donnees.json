@@ -1,0 +1,5 @@
+[
+    {"id":1, "type":"image", "likes":120, "commentaires":15, "date":"10/05/2026"},
+    {"id":2, "type":"reel", "likes":450, "commentaires":80, "date":"09/01/2026"},
+    {"id":3, "type":"image", "likes":89, "commentaires":20, "date":"24/12/2026"}
+]
